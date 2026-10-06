@@ -167,7 +167,7 @@
                     "line_height": "normal",
                     "letter_spacing": "normal",
                     "case": "none",
-                    "text_color": "{{ settings.color_palette.foreground }}",
+                    "text_color": "#E5B666",
                     "padding-block-start": 4,
                     "padding-block-end": 0,
                     "padding-inline-start": 0,
